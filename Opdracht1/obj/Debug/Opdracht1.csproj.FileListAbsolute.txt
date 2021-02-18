@@ -1,0 +1,10 @@
+C:\c#2015\Chapter 8\Opdracht1\bin\Debug\Opdracht1.exe.config
+C:\c#2015\Chapter 8\Opdracht1\bin\Debug\Opdracht1.exe
+C:\c#2015\Chapter 8\Opdracht1\bin\Debug\Opdracht1.pdb
+C:\c#2015\Chapter 8\Opdracht1\obj\Debug\Opdracht1.csprojAssemblyReference.cache
+C:\c#2015\Chapter 8\Opdracht1\obj\Debug\Opdracht1.Form1.resources
+C:\c#2015\Chapter 8\Opdracht1\obj\Debug\Opdracht1.Properties.Resources.resources
+C:\c#2015\Chapter 8\Opdracht1\obj\Debug\Opdracht1.csproj.GenerateResource.cache
+C:\c#2015\Chapter 8\Opdracht1\obj\Debug\Opdracht1.csproj.CoreCompileInputs.cache
+C:\c#2015\Chapter 8\Opdracht1\obj\Debug\Opdracht1.exe
+C:\c#2015\Chapter 8\Opdracht1\obj\Debug\Opdracht1.pdb
